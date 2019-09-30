@@ -6,6 +6,11 @@ Welcome to Tusk!
 2. C++
 3. Java
 
+4. PHP
+5. Javascript
+
 Thanks ;)
+
+Done changes
 
 Final End
